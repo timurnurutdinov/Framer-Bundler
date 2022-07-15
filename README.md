@@ -2,7 +2,7 @@
 
 brew install node
 
-npm install
-npm install --location=global
-framer-bundler --watch [path]
+1. npm install
+2. npm install --location=global
+3. framer-bundler --watch [path]
 
